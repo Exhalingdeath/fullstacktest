@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+body{
+	background-color: black;
+	
+}
+.side{
+	background-color: white;
+	width: 33%;
+	min-width: 33%;
+	
+}
+.middle{
+	background-color: yellow;
+	width: 33%;
+	height: 100%;
+}
